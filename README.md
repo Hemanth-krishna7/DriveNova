@@ -1,16 +1,38 @@
-# React + Vite
+# 🚗 DriveNova
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+DriveNova is a luxury car rental web application built to deliver a premium online booking experience. The project combines modern UI design with an interactive 3D landing page, allowing users to explore vehicles, view detailed information, and make reservations through a realistic frontend workflow.
 
-Currently, two official plugins are available:
+### 🌐 Live Demo
+https://drivenova.pages.dev/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## ✨ Highlights
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Interactive 3D Ferrari landing page
+- Premium fleet browsing experience
+- Search and filter vehicles
+- Vehicle details page
+- Smart booking workflow
+- Prevents overlapping bookings
+- Responsive design for desktop, tablet and mobile
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠 Built With
+
+- React
+- Vite
+- Three.js
+- React Three Fiber
+- Tailwind CSS
+- React Router
+- Framer Motion
+- Zustand
+- LocalStorage
+
+---
+
+## 📌 About the Project
+
+The idea behind DriveNova was to build a frontend application that feels like a real product instead of a simple demo. Along the way, I focused on creating a clean user interface, smooth navigation, responsive layouts, and a booking experience with practical validations such as preventing overlapping reservations.
